@@ -1,1 +1,2 @@
-# Angry_bird_error
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
